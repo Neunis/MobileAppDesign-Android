@@ -1,7 +1,7 @@
 ## MobileAppDesign-Android
 
 ### App Description
-Here we have the start of something new...to me, Mobile app development made possible by Code Path. I'm excited to learn about all the cool things that is possible to do for mobile app design.
+Here we have the start of something new...to me, Mobile app development made possible by Code Path. I'm excited to learn about all the cool things that is possible to do for mobile app design.<br>
 [x] Proper Introduction to Android Studio for Android mobile applications 
 
 ### App Walk-though
